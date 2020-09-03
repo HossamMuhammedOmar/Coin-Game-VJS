@@ -1,6 +1,13 @@
-img {
+#player {
   width: 70px;
   position: absolute;
   top: 10px;
   left: 10px;
+}
+
+#coin {
+  width: 70px;
+  position: absolute;
+  top: 50px;
+  left: 150px;
 }
